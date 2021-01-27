@@ -1,0 +1,38 @@
+{
+    "maps": [
+        {
+            "id": "27acea3a-91bd-428d-b9b1-7a2edd50009f",
+            "fromZ": 0,
+            "fromX": 0,
+            "fromY": 0,
+            "toZ": 7,
+            "template": "https://{P}.tile.openstreetmap.org/{Z}/{X}/{Y}.png",
+            "prefix": [
+                "a",
+                "b",
+                "c"
+            ],
+            "type": "SYSTEM",
+            "status": "CLONING",
+            "progress": 0
+        },
+        {
+            "id": "7f591afc-6476-4501-b16c-0fa6b1e4c2e3",
+            "fromZ": 0,
+            "fromX": 0,
+            "fromY": 0,
+            "toZ": 7,
+            "template": "https://{P}.tile.openstreetmap.org/{Z}/{X}/{Y}.png",
+            "prefix": [
+                "a",
+                "b",
+                "c"
+            ],
+            "type": "SYSTEM",
+            "status": "CLONING",
+            "progress": 0
+        }
+    ],
+    "status": "OK",
+    "message": null
+}
